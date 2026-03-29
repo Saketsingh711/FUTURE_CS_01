@@ -7,6 +7,7 @@
 ## 🛠 Tools Used
 - Nmap  
 - OWASP ZAP (Passive Scan)
+- Canva (Proffesional Report)
   
 ---
 
@@ -22,7 +23,8 @@
 
 - **Nmap** → Checked open ports and services.  
 - **nslookup** → Verified DNS resolution and hosting IPs.  
-- **OWASP ZAP (Passive Scan)** → Captured traffic and flagged vulnerabilities.  
+- **OWASP ZAP (Passive Scan)** → Captured traffic and flagged vulnerabilities.
+- **CANVA** → To make a report on findings.
 
 ---
 
