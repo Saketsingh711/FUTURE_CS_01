@@ -6,9 +6,8 @@
 
 ## 🛠 Tools Used
 - Nmap  
-- OWASP ZAP (Passive Scan)  
-- Browser DevTools  
-
+- OWASP ZAP (Passive Scan)
+  
 ---
 
 ## 📌 Executive Summary
@@ -24,7 +23,6 @@
 - **Nmap** → Checked open ports and services.  
 - **nslookup** → Verified DNS resolution and hosting IPs.  
 - **OWASP ZAP (Passive Scan)** → Captured traffic and flagged vulnerabilities.  
-- **Browser DevTools** → Confirmed headers, cookies, and local storage behavior.  
 
 ---
 
