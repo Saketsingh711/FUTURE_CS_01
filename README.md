@@ -2,7 +2,7 @@
 # 🔐 Vulnerability Assessment Report
 
 ## 📍 Target
-**OWASP Juice Shop (Heroku)**
+**OWASP Juice Shop (Heroku)** https://juice-shop.herokuapp.com/
 
 ## 🛠 Tools Used
 - Nmap  
