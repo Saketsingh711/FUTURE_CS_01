@@ -39,7 +39,7 @@
 ## ⚠️ Vulnerabilities Detected (ZAP)
 
 - Application Error Disclosure → Error messages reveal technical details.  
-- Missing Security Headers → No CSP, HSTS, or X-Frame-Options.  
+- Missing Security Headers → No CSP Headers.
 - Cross-Domain Misconfiguration (CORS) → `Access-Control-Allow-Origin: *`.  
 - Session ID in URL → Tokens visible in URL.  
 - Information Disclosure (Debug Errors) → Sensitive error messages exposed.  
